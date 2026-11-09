@@ -27,7 +27,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   flutter_secure_storage: ^11.2.0
-  flutter_slidable: ^4.0.3
+  flutter_slidable: ^5.2.0
   flutter_svg: ^2.3.0
   fpdart: ^1.2.0
   geolocator: ^14.0.1
